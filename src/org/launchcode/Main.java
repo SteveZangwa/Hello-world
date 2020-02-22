@@ -8,6 +8,9 @@ public class Main {
         int b = 3;
         int x = a + b;
         System.out.println("Result: " + x);
+        
+        if x=> 5; 
+        System.out.print("correct");
 
     }
 }
